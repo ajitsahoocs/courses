@@ -11,7 +11,7 @@
 ## 🎓 Lectures
 
 |S.No.|Topic|Lecture Notes / Slides|
-|-|-|-|-|
+|-|-|-|
 |1.|Introduction to Computer Science|[Slides](#)|
 |2.|Programming Fundamentals|[Slides](#)|
 |3.|Data Structures|[Slides](#)|
