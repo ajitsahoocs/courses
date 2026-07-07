@@ -1,4 +1,4 @@
-# Course: Introduction to Data Science
+# Course: Introduction to Data Science (BC30031)
 
 <br>
 <p align="center"><img src="./ids.png"  width="400"></p>
