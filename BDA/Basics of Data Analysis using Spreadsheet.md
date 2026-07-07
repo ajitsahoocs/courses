@@ -4,7 +4,7 @@
 <p align="center"><img src="./bda.png"  width="400"></p>
 <br>
 
-**This course introduces the fundamentals of data science, covering data collection, cleaning, visualization, and basic machine learning techniques. Learners gain practical skills to analyze real-world datasets and derive meaningful insights.**
+**This course introduces foundational techniques of data analysis through spreadsheets (MS Excel/Google sheet/LibreOffice), focusing on organizing, cleaning, and interpreting data. Learners gain hands‑on skills in using formulas, charts, and tables to uncover insights from raw datasets.**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,20 +37,20 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🔬 Data Sceince Lab (BC39031) Experiments
+## 🔬 Data Sceince Lab (BC29031) Experiments
 
 |S.No.|Experiment Title|Description|Date|
 |-|-|-|-|
-|1.|Data Collection & Cleaning|Import datasets, remove duplicates, handle missing values|xxx|
-|2.|Exploratory Data Analysis|Use descriptive statistics and visualization to explore data|xxxx|
-|3.|Data Visualization|Create charts (bar, line, scatter) using Excel/Python|xxxx|
-|4.|Probability & Statistics|Apply basic statistical measures (mean, variance, correlation)|xxxx|
-|5.|Regression Analysis|Perform simple linear regression on sample datasets|xxx|
-|6.|Classification Basics|Implement logistic regression or decision trees|xxx|
-|7.|Clustering|Apply k-means clustering to group data points|xxx|
-|8.|Text Data Processing|Clean and analyze textual datasets|xxx|
-|9.|Time Series Analysis|Analyze trends and seasonality in time-based data|xxx|
-|10.|Capstone Lab|Combine multiple techniques to analyze a real-world dataset|xxx|
+|1.|xxx|xxx|xxx|
+|2.|xxx|xxx|xxxx|
+|3.|xxx|xxx|xxxx|
+|4.|xxx|xxx|xxxx|
+|5.|xxx|xxx|xxx|
+|6.|xxx|xxx|xxx|
+|7.|xxx|xxx|xxx|
+|8.|xxx|xxx|xxx|
+|9.|xxx|xxx|xxx|
+|10.|xxx|XXX|xxx|
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
