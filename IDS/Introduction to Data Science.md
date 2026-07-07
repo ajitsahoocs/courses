@@ -4,7 +4,7 @@
 <p align="center"><img src="./ids.png"  width="400"></p>
 <br>
 
-"This course introduces the fundamentals of data science, covering data collection, cleaning, visualization, and basic machine learning techniques. Learners gain practical skills to analyze real-world datasets and derive meaningful insights."
+*This course introduces the fundamentals of data science, covering data collection, cleaning, visualization, and basic machine learning techniques. Learners gain practical skills to analyze real-world datasets and derive meaningful insights.*
 
 \--------------------------------------------------------------------------------
 
