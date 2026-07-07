@@ -4,7 +4,7 @@
 <p align="center"><img src="https://i.ibb.co/7r9rL7m/books-lectures.jpg" height="200"></p>
 <br>
 
-This roadmap provides a structured guide to lectures, assignments, and reading materials for the course. It is designed to help students follow a clear learning path and stay organized throughout the semester.
+"This course introduces the fundamentals of data science, covering data collection, cleaning, visualization, and basic machine learning techniques. Learners gain practical skills to analyze real-world datasets and derive meaningful insights."
 
 \---
 
