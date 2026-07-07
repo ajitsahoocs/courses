@@ -39,12 +39,10 @@
 
 ## 🔬 Data Sceince Lab (BC29031) Experiments
 
-## 🔬 Lab Experiments & 📂 Datasets
-
-|S.No.|Experiment Title|Description|Week|Dataset Name|Dataset Description|
+|S.No.|Experiment Title|Description|Week|📂 Datasets|Dataset Description|
 |-|-|-|-|-|-|
-|1.|Data Collection & Cleaning|Import datasets, remove duplicates, handle missing values|Week 2|Students.csv|Basic student records with missing values|
-|2.|Exploratory Data Analysis|Use descriptive statistics and visualization to explore data|Week 3|Sales.xlsx|Monthly sales data across regions|
+|1.|Data Collection & Cleaning|Import datasets, remove duplicates, handle missing values|Week 2|[📂 Students.csv](./datasets/Students.csv)|Basic student records with missing values|
+|2.|Exploratory Data Analysis|Use descriptive statistics and visualization to explore data|Week 3|[📂 Sales.xlsx](./datasets/Sales.xlsx)|Monthly sales data across regions|
 |3.|Data Visualization|Create charts (bar, line, scatter) using Excel/Python|Week 4|Weather.csv|Daily temperature and rainfall data|
 |4.|Probability & Statistics|Apply basic statistical measures (mean, variance, correlation)|Week 5|ExamScores.csv|Student exam scores dataset|
 |5.|Regression Analysis|Perform simple linear regression on sample datasets|Week 6|Housing.csv|House prices with features like size, location|
